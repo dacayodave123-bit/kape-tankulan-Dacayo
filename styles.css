@@ -1,0 +1,44 @@
+
+body {
+    font-family: Arial, sans-serif;
+    color: #333333;
+    background-color: #f5f5f5;
+    margin: 20px;
+}
+
+h1, h2 {
+    color: #b22222;
+}
+
+h1 {
+    text-align: center;
+}
+
+.tagline {
+    color: #666666;
+    font-style: italic;
+    text-align: center;
+    font-size: 18px;
+}
+
+.note {
+    color: #8b0000;
+    background-color: #ffe4e1;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+
+#best-seller {
+    border: 2px solid #b22222;
+    background-color: #ffffff;
+    padding: 15px;
+    margin: 20px 0;
+    border-radius: 8px;
+}
+
+
+section {
+    margin: 25px 0;
+}
